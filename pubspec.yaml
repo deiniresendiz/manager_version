@@ -1,7 +1,7 @@
 name: manager_version
-description: A new Flutter package project.
+description: This project is a version manager.
 version: 0.0.1
-homepage:
+homepage: deiniresendiz.com
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
@@ -14,7 +14,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.1
+  flutter_native_splash: ^2.2.14
+  flutter_launcher_icons: ^0.10.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
